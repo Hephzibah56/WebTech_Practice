@@ -1,2 +1,2 @@
-# WebTech_Practice
-It contains list of front-end practice codes.
+# sample_website
+A sample website for learn Enough HTML to Be Dangerous
